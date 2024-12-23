@@ -1,0 +1,10 @@
+.app-container {
+  position: relative;
+}
+
+.loading-container {
+  position: absolute;
+  top: 50px; /* Adjust this value as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
